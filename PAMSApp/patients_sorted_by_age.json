@@ -1,0 +1,41 @@
+[ {
+  "id" : 5,
+  "firstName" : "Mary",
+  "lastName" : "Washington",
+  "age" : 93,
+  "contactPhone" : null,
+  "email" : null,
+  "mailingAddress" : "30 W Burlington"
+}, {
+  "id" : 2,
+  "firstName" : "Ana",
+  "lastName" : "Smith",
+  "age" : 76,
+  "contactPhone" : null,
+  "email" : "amsith@te.edu",
+  "mailingAddress" : null
+}, {
+  "id" : 1,
+  "firstName" : "Daniel",
+  "lastName" : "Agar",
+  "age" : 38,
+  "contactPhone" : "(641) 123-0009",
+  "email" : "dagar@m.as",
+  "mailingAddress" : "1 N Street"
+}, {
+  "id" : 4,
+  "firstName" : "Jeff",
+  "lastName" : "Goldbloom",
+  "age" : 30,
+  "contactPhone" : "(999) 165-1192",
+  "email" : "jgold@es.co.za",
+  "mailingAddress" : null
+}, {
+  "id" : 3,
+  "firstName" : "Marcus",
+  "lastName" : "Garvey",
+  "age" : 24,
+  "contactPhone" : "(123) 292-0018",
+  "email" : null,
+  "mailingAddress" : "4 East Ave"
+} ]
